@@ -1,5 +1,19 @@
 h1 {
-    color: blue;
-    background-color: hotpink;
+    color: rgb(203, 124, 219);
+    text-align: center;
+  }
+  
+  h2 {
+    font-style: italic;
+    text-align: center;
+    color: teal;
+  }
+  
+  p {
+    color: gray;
+  }
+  
+  body {
+    background-color: rgb(202, 225, 235);
   }
   
